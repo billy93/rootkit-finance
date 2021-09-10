@@ -18,8 +18,8 @@ $(".navbar").on("hide.bs.collapse", function(e) {
 
 // Header scroll class
   $(window).scroll(function () {
-    var logoHomeinitialSrc = "https://www.rsk.co/img/rsk_logo_reverse.svg";
-    var logoHomescrollSrc = "https://www.rsk.co/img/rsk_logo.svg";
+    var logoHomeinitialSrc = "img/rootkit-logo.jpeg";
+    var logoHomescrollSrc = "img/rootkit-logo.jpeg";
 
     if ($(this).scrollTop() > 100) {
       $('.navbar').addClass('header-scrolled');
