@@ -324,15 +324,15 @@ button:focus {
     }
     }*/
 @media (max-width: 767px) {
-    #video1 {
+    /* #video1 {
         display: none;
-    }
+    } */
 
-    #home {
+    /* #home {
         background-image: url(../img/pictures/home-bg-mobile.jpg);
         background-size: 100% 100%;
         background-position: center;
-    }
+    } */
 }
 
 .homepage .navbar,
