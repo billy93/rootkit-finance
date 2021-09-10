@@ -328,6 +328,9 @@ button:focus {
         display: none;
     } */
 
+    .home-content-contain{
+        display: none;
+    }
     /* #home {
         background-image: url(../img/pictures/home-bg-mobile.jpg);
         background-size: 100% 100%;
